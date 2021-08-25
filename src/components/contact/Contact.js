@@ -6,15 +6,15 @@ const Contact = ()=>{
            <Title>Feel free to shoot through an email or view my folio</Title>
            <Media>
                 <p>SAY HI!</p><br/>
-                <a style={{textDecoration:'none',color:'black'}} href='https://mail.google.com/mail/u/0/#inbox?compose=new'>itzjosue99@gmail.com</a>
+                <a target='_blank' style={{textDecoration:'none',color:'black'}} href='https://mail.google.com/mail/u/0/#inbox?compose=new'>itzjosue99@gmail.com</a>
                 <br/>
                 <p>VIEW PORTFOLIO</p><br/>
-                <a style={{textDecoration:'none',color:'black'}} href='#'>Donwload PDF</a>
+                <a target='_blank' style={{textDecoration:'none',color:'black'}} href='#'>Donwload PDF</a>
            </Media>    
            <Redes>
-              <a href='https://api.whatsapp.com/send?phone=990003088&text=Hola,estoy interesado en trabajar contigo'><i className='fab fa-whatsapp'></i></a>
-              <a href='https://github.com/ITZjosue'><i className='fab fa-github'></i></a>
-              <a href='https://codepen.io/itzjosue'><i className='fab fa-codepen'></i></a>
+              <a href='https://api.whatsapp.com/send?phone=990003088&text=Hola,estoy interesado en trabajar contigo'target='_blank'><i className='fab fa-whatsapp'></i></a>
+              <a href='https://github.com/ITZjosue' target='_blank'><i className='fab fa-github'></i></a>
+              <a href='https://codepen.io/itzjosue' target='_blank'><i className='fab fa-codepen'></i></a>
            </Redes>
            <Footer>
                <h4 style={{letterSpacing:'5px',zIndex:'1'}}> Josue Lamas &copy; 2021</h4>
