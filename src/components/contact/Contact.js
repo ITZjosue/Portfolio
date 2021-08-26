@@ -9,7 +9,7 @@ const Contact = ()=>{
                 <a target='_blank' style={{textDecoration:'none',color:'black'}} href='https://mail.google.com/mail/u/0/#inbox?compose=new'>itzjosue99@gmail.com</a>
                 <br/>
                 <p>VIEW PORTFOLIO</p><br/>
-                <a target='_blank' style={{textDecoration:'none',color:'black'}} href='#'>Donwload PDF</a>
+                <a target='_blank' style={{textDecoration:'none',color:'black'}} href='https://drive.google.com/file/d/10NAZdJX9ro3TsCyRXc9CwvZMU1a6O3gs/view?usp=sharing'>Donwload PDF</a>
            </Media>    
            <Redes>
               <a href='https://api.whatsapp.com/send?phone=990003088&text=Hola,estoy interesado en trabajar contigo'target='_blank'><i className='fab fa-whatsapp'></i></a>
