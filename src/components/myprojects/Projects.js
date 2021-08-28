@@ -66,14 +66,14 @@ export const Projects = () => {
                 </Caja>
 
                 <Caja className='caja'>
-                    <Imagen className='imagen' src='https://i.postimg.cc/CL5VDy7F/Random-Quote-Machine-PNG.png'/>
+                    <Imagen className='imagen' src='https://i.postimg.cc/zXqHK1st/Captura.png'/>
                     <Descripcion className='descripcion'>
-                        <h2>Ramdom Quote Machine</h2>
-                        <p style={ptyles}>Application made using REACT, which renders a new phrase every time the 'new quote' button is pressed</p>
+                        <h2>Movie Info App</h2>
+                        <p style={ptyles}>An application where you can search any movie you want to know the information about. The information comes from a movie API.</p>
                         <div style={icono}><i className="fab fa-html5"></i> <i className="fab fa-css3-alt"></i> <i className='fab fa-js-square'></i> <i className="fab fa-react"></i></div>
                         <ButtonContainer>
-                            <Boton target='_blank' href='https://itzjosue.github.io/RamdomQuoteMachine/'>Live Demo</Boton>
-                            <Boton target='_blank' href='https://github.com/ITZjosue/RamdomQuoteMachine'>Repository</Boton>
+                            <Boton target='_blank' href='https://vigorous-wing-a25aba.netlify.app/'>Live Demo</Boton>
+                            <Boton target='_blank' href='https://github.com/ITZjosue/movie_info_app'>Repository</Boton>
                         </ButtonContainer>
                     </Descripcion>
                 </Caja>
@@ -85,8 +85,8 @@ export const Projects = () => {
                         <p style={ptyles}>An app that tells you the weather of any city you write in the search bar</p>
                         <div style={icono}><i className="fab fa-html5"></i> <i className="fab fa-css3-alt"></i> <i className='fab fa-js-square'></i> <i className="fab fa-react"></i></div>
                         <ButtonContainer>
-                            <Boton target='_blank' href='https://itzjosue.github.io/Drawing-App/'>Live Demo</Boton>
-                            <Boton target='_blank' href='https://github.com/ITZjosue/Drawing-App'>Repository</Boton>
+                            <Boton target='_blank' href='https://itzjosue.github.io/Weather_app/'>Live Demo</Boton>
+                            <Boton target='_blank' href='https://github.com/ITZjosue/Weather_app'>Repository</Boton>
                         </ButtonContainer>
                     </Descripcion>
                 </Caja>
